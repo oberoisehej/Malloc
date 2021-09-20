@@ -4,7 +4,6 @@
 
 #### Description 
 ##### The program works exaclty like malloc for C. 
-##### _Note: code cannot be shared due to academic policy, but willing to discuss implementation details_
 
 #### Language(s)
 ##### C
